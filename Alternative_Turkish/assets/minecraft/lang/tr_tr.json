@@ -52,5 +52,16 @@
     "item.minecraft.golden_boots": "Altın Ayaklık",
     "item.minecraft.iron_boots": "Demir Ayaklık",
     "item.minecraft.leather_boots": "Deri Ayaklık",
-    "item.minecraft.netherite_boots": "Netherit Ayaklık"
+    "item.minecraft.netherite_boots": "Netherit Ayaklık",
+
+    "advancements.nether.obtain_blaze_rod.description": "Bir Alazın çubuğunu alın",
+    "entity.minecraft.blaze": "Alaz",
+    "item.minecraft.blaze_powder": "Alaz Tozu",
+    "item.minecraft.blaze_rod": "Alaz Çubuğu",
+    "item.minecraft.blaze_spawn_egg": "Alaz Çağırma Yumurtası",
+    "subtitles.entity.blaze.ambient": "Alaz nefes alıyor",
+    "subtitles.entity.blaze.burn": "Alaz çatırdıyor",
+    "subtitles.entity.blaze.death": "Alaz öldü",
+    "subtitles.entity.blaze.hurt": "Alaz hasar aldı",
+    "subtitles.entity.blaze.shoot": "Alaz ateş etti"
 }
