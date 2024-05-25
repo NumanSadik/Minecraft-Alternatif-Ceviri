@@ -63,5 +63,20 @@
     "subtitles.entity.blaze.burn": "Alaz çatırdıyor",
     "subtitles.entity.blaze.death": "Alaz öldü",
     "subtitles.entity.blaze.hurt": "Alaz hasar aldı",
-    "subtitles.entity.blaze.shoot": "Alaz ateş etti"
+    "subtitles.entity.blaze.shoot": "Alaz ateş etti",
+
+    "advMode.mode.redstoneTriggered": "Kızıltaş Gerekli",
+    "block.minecraft.comparator": "Kızıltaş Karşılaştırıcı",
+    "block.minecraft.deepslate_redstone_ore": "Kayrak Taşında Kızıltaş Cevheri",
+    "block.minecraft.redstone_block": "Kızıltaş Bloğu",
+    "block.minecraft.redstone_lamp": "Kızıltaş Lambası",
+    "block.minecraft.redstone_ore": "Kızıltaş Cevheri",
+    "block.minecraft.redstone_torch": "Kızıltaş Meşalesi",
+    "block.minecraft.redstone_wall_torch": "Duvarda Kızıltaş Meşalesi",
+    "block.minecraft.redstone_wire": "Kızıltaş Kablosu",
+    "block.minecraft.repeater": "Kızıltaş Yineleyici",
+    "flat_world_preset.minecraft.redstone_ready": "Kızıltaşa Hazır",
+    "item.minecraft.redstone": "Kızıltaş Tozu",
+    "itemGroup.redstone": "Kızıltaş Blokları",
+    "trim_material.minecraft.redstone": "Kızıltaş Materyal"
 }
