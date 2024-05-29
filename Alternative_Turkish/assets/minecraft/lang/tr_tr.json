@@ -122,6 +122,31 @@
     "commands.bossbar.set.value.success": "Özel baş yaratık çubuğu %s'in değeri %s olarak değiştirildi",
     "commands.bossbar.set.visible.success.hidden": "Özel baş yaratık çubuğu %s artık gizli",
     "commands.bossbar.set.visible.success.visible": "Özel baş yaratık çubuğu %s artık görünür",
-    "commands.bossbar.unknown": "'%s' kimliği ile bir baş yaratık çubuğu zaten yok"
+    "commands.bossbar.unknown": "'%s' kimliği ile bir baş yaratık çubuğu zaten yok",
+    
+    "biome.minecraft.bamboo_jungle": "Kamış Ormanı",
+    "block.minecraft.bamboo": "Kamış",
+    "block.minecraft.bamboo_block": "Kamış Bloğu",
+    "block.minecraft.bamboo_button": "Kamış Düğme",
+    "block.minecraft.bamboo_door": "Kamış Kapı",
+    "block.minecraft.bamboo_fence": "Kamış Çit",
+    "block.minecraft.bamboo_fence_gate": "Kamış Çit Kapısı",
+    "block.minecraft.bamboo_hanging_sign": "Asılı Kamış Tabela",
+    "block.minecraft.bamboo_mosaic": "Kamış Mozaik",
+    "block.minecraft.bamboo_mosaic_slab": "Kamış Mozaik Basamak",
+    "block.minecraft.bamboo_mosaic_stairs": "Kamış Mozaik Merdiven",
+    "block.minecraft.bamboo_planks": "Kamış Tahtası",
+    "block.minecraft.bamboo_pressure_plate": "Kamış Basınç Plakası",
+    "block.minecraft.bamboo_sapling": "Kamış Filizi",
+    "block.minecraft.bamboo_sign": "Kamış Tabela",
+    "block.minecraft.bamboo_slab": "Kamış Basamak",
+    "block.minecraft.bamboo_stairs": "Kamış Merdiven",
+    "block.minecraft.bamboo_trapdoor": "Kamış Tuzak Kapısı",
+    "block.minecraft.bamboo_wall_hanging_sign": "Asılı Kamış Duvar Tabelası",
+    "block.minecraft.bamboo_wall_sign": "Kamış Duvar Tabelası",
+    "block.minecraft.potted_bamboo": "Kamış Saksısı",
+    "block.minecraft.stripped_bamboo_block": "Soyulmuş Kamış Bloğu",
+    "item.minecraft.bamboo_chest_raft": "Sandıklı Kamış Sal",
+    "item.minecraft.bamboo_raft": "Kamış Sal"
 
 }
