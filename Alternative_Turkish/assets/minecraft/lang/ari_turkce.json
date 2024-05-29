@@ -3732,7 +3732,7 @@
     "gui.narrate.editBox": "%s kutuyu düzenle: %s",
     "gui.narrate.slider": "%s çubuğu",
     "gui.narrate.tab": "%s sekmesi",
-    "gui.no": "Hayır",
+    "gui.no": "Olmaz",
     "gui.none": "Hiçbiri",
     "gui.ok": "Tamam",
     "gui.proceed": "Devam et",
