@@ -105,7 +105,7 @@
     "commands.bossbar.set.visibility.unchanged.hidden": "Bir şey değişmedi, baş yaratık çubuğu zaten gizli",
     "commands.bossbar.set.visibility.unchanged.visible": "Bir şey değişmedi, baş yaratık çubuğu zaten görünür",
     "gamerule.globalSoundEvents.description": "Bir baş yaratık doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",
-    "commands.bossbar.get.players.none": "Özel baş yaratık göstergesi %s, şu anda hiçbir çevrim içi oyuncuya gösterilmiyor",
+    "commands.bossbar.get.players.none": "Özel baş yaratık çubuğu %s, şu anda hiçbir çevrim içi oyuncuya gösterilmiyor",
     "commands.bossbar.create.failed": "'%s' kimliği ile bir baş yaratık çubuğu zaten var",
     "commands.bossbar.create.success": "Özel baş yaratık çubuğu %s oluşturuldu",
     "commands.bossbar.get.max": "Özel baş yaratık çubuğu %s %s maksimum değerine sahip",
