@@ -78,5 +78,20 @@
     "flat_world_preset.minecraft.redstone_ready": "Kızıltaşa Hazır",
     "item.minecraft.redstone": "Kızıltaş Tozu",
     "itemGroup.redstone": "Kızıltaş Blokları",
-    "trim_material.minecraft.redstone": "Kızıltaş Materyal"
+    "trim_material.minecraft.redstone": "Kızıltaş Materyal",
+    
+    "multiplayer.disconnect.not_whitelisted": "Bu sunucunun izin listesinde değilsiniz!",
+    "commands.whitelist.add.failed": "Oyuncu zaten izin listesinde",
+    "commands.whitelist.add.success": "%s izin listesine eklendi",
+    "commands.whitelist.remove.failed": "Oyuncu zaten izin listesinde değil",
+    "commands.whitelist.remove.success": "%s izin listesinden çıkarıldı",
+    "commands.whitelist.alreadyOff": "İzin listesi zaten kapalı",
+    "commands.whitelist.alreadyOn": "İzin listesi zaten açık",
+    "commands.whitelist.disabled": "İzin listesi kapatıldı",
+    "commands.whitelist.enabled": "İzin listesi açıldı",
+    "commands.whitelist.list": "İzin listesine alınmış %s oyuncu var: %s",
+    "commands.whitelist.none": "İzin listesinde hiçbir oyuncu yok",
+    "commands.whitelist.reloaded": "İzin listesi yeniden yüklendi",
+    "createWorld.customize.custom.lavaLakeChance": "Lav Gölü Seyrekliği",
+    "createWorld.customize.custom.waterLakeChance": "Su Gölü Seyrekliği"
 }
