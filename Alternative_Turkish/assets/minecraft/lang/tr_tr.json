@@ -166,5 +166,8 @@
     "block.minecraft.waxed_oxidized_copper_trapdoor": "Cilalı Paslanmış Bakır Tuzak Kapı",
     "block.minecraft.waxed_oxidized_cut_copper": "Cilalı Paslanmış Kesilmiş Bakır",
     "block.minecraft.waxed_oxidized_cut_copper_slab": "Cilalı Paslanmış Kesilmiş Bakır Basamak",
-    "block.minecraft.waxed_oxidized_cut_copper_stairs": "Cilalı Paslanmış Kesilmiş Bakır Merdiven"
+    "block.minecraft.waxed_oxidized_cut_copper_stairs": "Cilalı Paslanmış Kesilmiş Bakır Merdiven",
+    "createWorld.customize.custom.riverSize": "Irmak Boyutu",
+    "biome.minecraft.river": "Irmak",
+    "biome.minecraft.frozen_river": "Donmuş Irmak"
 }
