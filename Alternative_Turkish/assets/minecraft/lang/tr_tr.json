@@ -169,5 +169,12 @@
     "block.minecraft.waxed_oxidized_cut_copper_stairs": "Cilalı Paslanmış Kesilmiş Bakır Merdiven",
     "createWorld.customize.custom.riverSize": "Irmak Boyutu",
     "biome.minecraft.river": "Irmak",
-    "biome.minecraft.frozen_river": "Donmuş Irmak"
+    "biome.minecraft.frozen_river": "Donmuş Irmak",
+    
+    "subtitles.entity.evoker.celebrate": "Uyandırıcı kutluyor",
+    "subtitles.entity.pillager.celebrate": "Yağmacı kutluyor",
+    "subtitles.entity.ravager.celebrate": "Yıkıcı kutluyor",
+    "subtitles.entity.villager.celebrate": "Köylü kutluyor",
+    "subtitles.entity.vindicator.celebrate": "İntikamcı kutluyor",
+    "subtitles.entity.witch.celebrate": "Cadı kutluyor"
 }
