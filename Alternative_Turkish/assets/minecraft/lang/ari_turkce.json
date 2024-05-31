@@ -3537,7 +3537,7 @@
     "gamerule.enderPearlsVanishOnDeath.description": "Bir oyuncu tarafından atılan ender incilerinin o oyuncu ölürse yok olup olmayacağı.",
     "gamerule.fallDamage": "Düşme dokuncası alma",
     "gamerule.fireDamage": "Od dokuncası alma",
-    "gamerule.forgiveDeadPlayers": "Ölü oyuncular affedilsin",
+    "gamerule.forgiveDeadPlayers": "Ölü oyuncular bağışlansın",
     "gamerule.forgiveDeadPlayers.description": "Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",
     "gamerule.freezeDamage": "Donma dokuncası alma",
     "gamerule.globalSoundEvents": "Küresel ses olayları",
