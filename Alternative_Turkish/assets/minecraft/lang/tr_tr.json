@@ -190,5 +190,6 @@
     "advancements.nether.charge_respawn_anchor.description": "Bir dirilticiyi tamamen şarj edin",
     "block.minecraft.respawn_anchor": "Diriltici",
     "block.minecraft.set_spawn": "Dirilme noktası ayarlandı",
-    "deathScreen.respawn": "Diril"
+    "deathScreen.respawn": "Diril",
+    "advancements.end.respawn_dragon.description": "Ender Ejderhasını diriltin"
 }

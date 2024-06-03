@@ -134,7 +134,6 @@
     "advancements.end.kill_dragon.title": "End'i Özgür Bırak",
     "advancements.end.levitate.description": "Shulker saldırıları ile 50 blok yükselin",
     "advancements.end.levitate.title": "Buradan Manzara Harika",
-    "advancements.end.respawn_dragon.description": "Ender Ejderhasını yeniden çağırın",
     "advancements.end.respawn_dragon.title": "Son... Yine...",
     "advancements.end.root.description": "Ya da başlangıç mı?",
     "advancements.end.root.title": "End",
@@ -6834,5 +6833,6 @@
     "advancements.nether.charge_respawn_anchor.description": "Bir dirilticiyi tamamen şarj edin",
     "block.minecraft.respawn_anchor": "Diriltici",
     "block.minecraft.set_spawn": "Dirilme noktası belirlendi",
-    "deathScreen.respawn": "Diril"
+    "deathScreen.respawn": "Diril",
+    "advancements.end.respawn_dragon.description": "Ender Ejderhasını diriltin"
 }
