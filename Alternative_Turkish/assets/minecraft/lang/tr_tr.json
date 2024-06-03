@@ -176,5 +176,19 @@
     "subtitles.entity.ravager.celebrate": "Yıkıcı kutluyor",
     "subtitles.entity.villager.celebrate": "Köylü kutluyor",
     "subtitles.entity.vindicator.celebrate": "İntikamcı kutluyor",
-    "subtitles.entity.witch.celebrate": "Cadı kutluyor"
+    "subtitles.entity.witch.celebrate": "Cadı kutluyor",
+    
+    "gamerule.doImmediateRespawn": "Anında dirilme",
+    "gamerule.spawnRadius": "Dirilme yeri çevresi",
+    "menu.respawning": "Diriliniyor",
+    "selectWorld.gameMode.hardcore.info": "'Zor' zorluğa kilitlenmiş Hayatta Kalma modu. Öldüğünüzde dirilemezsiniz.",
+    "subtitles.block.respawn_anchor.charge": "Diriltici yüklendi",
+    "subtitles.block.respawn_anchor.deplete": "Diriltici tükendi",
+    "subtitles.block.respawn_anchor.set_spawn": "Diriltici, dirilme yerini ayarladı",
+    "advancements.adventure.play_jukebox_in_meadows.description": "Çayırları, Müzik Kutusunun müziklerinin sesleri ile diriltin",
+    "advancements.adventure.sleep_in_bed.description": "Dirilme noktanızı değiştirmek için bir yatakta uyuyun",
+    "advancements.nether.charge_respawn_anchor.description": "Bir dirilticiyi tamamen şarj edin",
+    "block.minecraft.respawn_anchor": "Diriltici",
+    "block.minecraft.set_spawn": "Dirilme noktası ayarlandı",
+    "deathScreen.respawn": "Diril"
 }
