@@ -176,6 +176,16 @@
     "outOfMemory.message": "Minecraft'ın belleği tükendi.\n\nOyundaki bir hatadan veya Java Sanal Makinesi'ne yeterli bellek ayırılmamasından kaynaklanmış olabilir.\n\nDünya bozulmasını önlemek için mevcut oyun kapatıldı. Ana menüye geri dönüp oynamayı sürdürmeniz için yeterli bellek boşaltmaya çalıştık ancak işe yaramamış olabilir.\n\nBu mesajı tekrar görürseniz lütfen oyunu yeniden başlatın.",
     "selectWorld.backupWarning.downgrade": "Bu dünya en son %s versiyonunda oynandı; siz %s versiyonundasınız. Bir dünyanın sürümünü düşürmek dünya üzerinde bozulmalara neden olur - yüklenmesine veya çalışmasına garanti veremeyiz. Eğer hâlâ ilerlemek istiyorsanız, dünyanın bir yedeğini alın!",
     "selectWorld.warning.deprecated.question": "Kullanılan bazı özellikler kullanımdan kaldırılmış ve gelecekte çalışmayı durduracaktır. İlerlemek istiyor musunuz?",
-    "selectWorld.warning.experimental.question": "Bu ayarlar deneyseldir ve bir gün çalışmayı bırakabilirler. İlerlemek istiyor musunuz?"
+    "selectWorld.warning.experimental.question": "Bu ayarlar deneyseldir ve bir gün çalışmayı bırakabilirler. İlerlemek istiyor musunuz?",
+
+    "pack.openFolder": "Paket Dizinini Aç",
+    "selectWorld.edit.backupFolder": "Yedek Dizinini Aç",
+    "selectWorld.edit.openFolder": "Dünya Dizinini Aç",
+    "selectWorld.load_folder_access": "Oyun dünyalarının kaydedildiği dizin okunamıyor veya dizine erişilemiyor!",
+    "selectWorld.targetFolder": "Kayıt dizini: %s",
+    "symlink_warning.message": "Ne yaptığınız bilmiyorsanız sembolik bağlantılar içeren dizinlerden dünya yüklemek, tehlikeli olabilir. Ayrıntılı bilgi için %s adresini ziyaret edin.",
+    "symlink_warning.message.world": "Ne yaptığınız bilmiyorsanız sembolik bağlantılar içeren dizinlerden dünya yüklemek, tehlikeli olabilir. Ayrıntılı bilgi için %s adresini ziyaret edin.",
+    "symlink_warning.title": "Dünya dizini sembolik bağlantılar içeriyor",
+    "symlink_warning.title.world": "Dünya dizini sembolik bağlantılar içeriyor"
 
 }
