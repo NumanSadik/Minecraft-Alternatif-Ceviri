@@ -186,6 +186,22 @@
     "symlink_warning.message": "Ne yaptığınız bilmiyorsanız sembolik bağlantılar içeren dizinlerden dünya yüklemek, tehlikeli olabilir. Ayrıntılı bilgi için %s adresini ziyaret edin.",
     "symlink_warning.message.world": "Ne yaptığınız bilmiyorsanız sembolik bağlantılar içeren dizinlerden dünya yüklemek, tehlikeli olabilir. Ayrıntılı bilgi için %s adresini ziyaret edin.",
     "symlink_warning.title": "Dünya dizini sembolik bağlantılar içeriyor",
-    "symlink_warning.title.world": "Dünya dizini sembolik bağlantılar içeriyor"
+    "symlink_warning.title.world": "Dünya dizini sembolik bağlantılar içeriyor",
 
+    "argument.entity.options.level.description": "Deneyim seviyesindeki varlıklar",
+    "commands.experience.add.levels.success.multiple": "%2$s oyuncuya %1$s deneyim seviyesi verildi",
+    "commands.experience.add.levels.success.single": "%2$s oyuncusuna %1$s deneyim seviyesi verildi",
+    "commands.experience.add.points.success.multiple": "%2$s oyuncuya %1$s deneyim puanı verildi",
+    "commands.experience.add.points.success.single": "%2$s oyuncusuna %1$s deneyim puanı verildi",
+    "commands.experience.query.levels": "%2$s oyuncusunun %1$s deneyim seviyesi var",
+    "commands.experience.query.points": "%2$s oyuncusunun %1$s deneyim puanı var",
+    "commands.experience.set.levels.success.multiple": "%2$s oyuncunun deneyim seviyesi %1$s olarak ayarlandı",
+    "commands.experience.set.levels.success.single": "%2$s'in deneyim seviyesi %1$s olarak ayarlandı",
+    "commands.experience.set.points.invalid": "Deneyim puanı oyuncunun geçerli deneyim seviyesinin en fazla değerinden fazlasına ayarlanamaz",
+    "commands.experience.set.points.success.multiple": "%2$s oyuncunun deneyim puanı %1$s olarak ayarlandı",
+    "commands.experience.set.points.success.single": "%2$s'in deneyim puanı %1$s olarak ayarlandı",
+    "entity.minecraft.experience_orb": "Deneyim Küresi",
+    "gamerule.doMobLoot.description": "Deneyim küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.",
+    "gamerule.doTileDrops.description": "Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.",
+    "subtitles.entity.experience_orb.pickup": "Tecrübe edinildi"
 }
