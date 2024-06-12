@@ -202,6 +202,6 @@
     "commands.experience.set.points.success.single": "%2$s'in deneyim puanı %1$s olarak ayarlandı",
     "entity.minecraft.experience_orb": "Deneyim Küresi",
     "gamerule.doMobLoot.description": "Deneyim küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.",
-    "gamerule.doTileDrops.description": "Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.",
-    "subtitles.entity.experience_orb.pickup": "Tecrübe edinildi"
+    "gamerule.doTileDrops.description": "Deneyim küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.",
+    "subtitles.entity.experience_orb.pickup": "Deneyim edinildi"
 }

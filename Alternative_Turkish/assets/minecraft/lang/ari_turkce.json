@@ -3274,7 +3274,7 @@
     "entity.minecraft.endermite": "Endermite",
     "entity.minecraft.evoker": "Uyandırıcı",
     "entity.minecraft.evoker_fangs": "Uyandırıcı Kapanı",
-    "entity.minecraft.experience_bottle": "Fırlatılmış Tecrübe İksiri",
+    "entity.minecraft.experience_bottle": "Fırlatılmış Deneyim İksiri",
     "entity.minecraft.eye_of_ender": "Ender Gözü",
     "entity.minecraft.falling_block": "Düşen Blok",
     "entity.minecraft.falling_block_type": "Düşen %s",
@@ -3885,7 +3885,7 @@
     "item.minecraft.enderman_spawn_egg": "Enderman Çağırma Yumurtası",
     "item.minecraft.endermite_spawn_egg": "Endermite Çağırma Yumurtası",
     "item.minecraft.evoker_spawn_egg": "Uyandırıcı Çağırma Yumurtası",
-    "item.minecraft.experience_bottle": "Tecrübe İksiri",
+    "item.minecraft.experience_bottle": "Deneyim İksiri",
     "item.minecraft.explorer_pottery_shard": "Kâşif Çömlek Parçası",
     "item.minecraft.explorer_pottery_sherd": "Kâşif Çömlek Parçası",
     "item.minecraft.eye_armor_trim_smithing_template": "Demirci Şablonu",
@@ -6834,7 +6834,7 @@
     "commands.experience.set.points.success.single": "%2$s'in deneyim puanı %1$s olarak belirlendi",
     "entity.minecraft.experience_orb": "Deneyim Küresi",
     "gamerule.doMobLoot.description": "Deneyim küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları denetler.",
-    "gamerule.doTileDrops.description": "Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları denetler.",
-    "subtitles.entity.experience_orb.pickup": "Tecrübe edinildi"
+    "gamerule.doTileDrops.description": "Deneyim küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.",
+    "subtitles.entity.experience_orb.pickup": "Deneyim edinildi"
 
 }
