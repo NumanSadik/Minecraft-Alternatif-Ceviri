@@ -268,5 +268,10 @@
     "painting.minecraft.wanderer.title": "Yolcu",
     "painting.minecraft.wasteland.title": "Çoraklık",
     
-    "demo.day.6": "Beşinci gününüz geçti. %s tuşuyla yaratınızın ekran görüntüsünü alın."
+    "demo.day.6": "Beşinci gününüz geçti. %s tuşuyla yaratınızın ekran görüntüsünü alın.",
+
+    "advancements.nether.obtain_crying_obsidian.description": "Ağlayan cam kaya edinin",
+    "advancements.story.form_obsidian.description": "Bir cam kaya bloğu elde edin",
+    "block.minecraft.crying_obsidian": "Ağlayan Cam Kaya",
+    "block.minecraft.obsidian": "Cam Kaya"
 }
