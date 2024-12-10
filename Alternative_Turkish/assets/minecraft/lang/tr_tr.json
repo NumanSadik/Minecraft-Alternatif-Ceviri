@@ -172,7 +172,6 @@
     "mco.configure.world.slot.switch.question.line2": "İlerlemek istediğinizden emin misiniz?",
     "mco.minigame.world.restore.question.line2": "İlerlemek istediğinizden emin misiniz?",
     "options.graphics.warning.accept": "Destek olmadan İlerle",
-    "options.graphics.warning.message": "Görüntüleme aygıtınızın %s grafik ayarları için desteklenmiyor olarak tespit edildi.\n\nBunu görmezden gelip ilerleyebilirsiniz, ancak %s grafik ayarlarını kullanmayı seçerseniz aygıtınız için destek sağlanmayacaktır.",
     "outOfMemory.message": "Minecraft'ın belleği tükendi.\n\nOyundaki bir hatadan veya Java Sanal Makinesi'ne yeterli bellek ayırılmamasından kaynaklanmış olabilir.\n\nDünya bozulmasını önlemek için mevcut oyun kapatıldı. Ana menüye geri dönüp oynamayı sürdürmeniz için yeterli bellek boşaltmaya çalıştık ancak işe yaramamış olabilir.\n\nBu mesajı tekrar görürseniz lütfen oyunu yeniden başlatın.",
     "selectWorld.backupWarning.downgrade": "Bu dünya en son %s versiyonunda oynandı; siz %s versiyonundasınız. Bir dünyanın sürümünü düşürmek dünya üzerinde bozulmalara neden olur - yüklenmesine veya çalışmasına garanti veremeyiz. Eğer hâlâ ilerlemek istiyorsanız, dünyanın bir yedeğini alın!",
     "selectWorld.warning.deprecated.question": "Kullanılan bazı özellikler kullanımdan kaldırılmış ve gelecekte çalışmayı durduracaktır. İlerlemek istiyor musunuz?",
@@ -194,7 +193,6 @@
     "commands.experience.add.points.success.multiple": "%2$s oyuncuya %1$s deneyim puanı verildi",
     "commands.experience.add.points.success.single": "%2$s oyuncusuna %1$s deneyim puanı verildi",
     "commands.experience.query.levels": "%2$s oyuncusunun %1$s deneyim seviyesi var",
-    "commands.experience.query.points": "%2$s oyuncusunun %1$s deneyim puanı var",
     "commands.experience.set.levels.success.multiple": "%2$s oyuncunun deneyim seviyesi %1$s olarak ayarlandı",
     "commands.experience.set.levels.success.single": "%2$s'in deneyim seviyesi %1$s olarak ayarlandı",
     "commands.experience.set.points.invalid": "Deneyim puanı oyuncunun geçerli deneyim seviyesinin en fazla değerinden fazlasına ayarlanamaz",
@@ -204,6 +202,7 @@
     "gamerule.doMobLoot.description": "Deneyim küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.",
     "gamerule.doTileDrops.description": "Deneyim küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.",
     "subtitles.entity.experience_orb.pickup": "Deneyim edinildi",
+    "commands.experience.query.points": "%2$s oyuncusunun %1$s deneyim puanı var",
     
     "subtitles.entity.wither.ambient": "Solgun öfkelendi",
     "subtitles.entity.wither.death": "Solgun öldü",
@@ -273,5 +272,9 @@
     "advancements.nether.obtain_crying_obsidian.description": "Ağlayan cam kaya edinin",
     "advancements.story.form_obsidian.description": "Bir cam kaya bloğu elde edin",
     "block.minecraft.crying_obsidian": "Ağlayan Cam Kaya",
-    "block.minecraft.obsidian": "Cam Kaya"
+    "block.minecraft.obsidian": "Cam Kaya",
+
+    "options.graphics.warning.message": "Görüntüleme aygıtınız, %s grafik ayarları için desteklenmiyor olarak saptandı.\n\nBunu görmezden gelip ilerleyebilirsiniz, ancak %s grafik ayarlarını kullanmayı seçerseniz aygıtınız için destek sağlanmayacaktır.",
+    "dataPack.redstone_experiments.description": "Deneysel Kızıltaş değişiklikleri",
+    "dataPack.redstone_experiments.name": "Kızıltaş Deneyleri"
 }
